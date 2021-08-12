@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itskakers, founder of Run It! A competitive social network.
+- 👋 Hi, I’m Kiernan, founder of Run It! A competitive social network.
 - 👀 I’m interested in Sports, Technology, & Media
 - 🌱 I’m currently learning Swift, AWS & Google Firebase
 - 💞️ I’m looking to collaborate on Sports Technology & Vehicular Automation
